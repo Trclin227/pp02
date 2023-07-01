@@ -125,6 +125,8 @@ dns:
     - local.adguard.org
     - +.sandai.net
     - +.n0808.com
+proxies: ~
+proxy-groups: ~
 rules:
   - DOMAIN-KEYWORD,emby,🎬 EMBY
   - DOMAIN-KEYWORD,odysseyplus,🎬 EMBY
