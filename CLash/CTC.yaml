@@ -264,6 +264,11 @@ rules:
   - DOMAIN-SUFFIX,cristiamo.xyz,🎬 EMBY
   - IP-CIDR,161.97.148.156/24,🎬 EMBY,no-resolve
   - DOMAIN-SUFFIX,emby.cristiamo.top,🎬 EMBY
+  - DOMAIN-SUFFIX,tdesktop.com,📲 电报
+  - DOMAIN-SUFFIX,telegra.ph,📲 电报
+  - DOMAIN-SUFFIX,telegram.me,📲 电报
+  - DOMAIN-SUFFIX,telegram.org,📲 电报
+  - DOMAIN-SUFFIX,telesco.pe,📲 电报
   - IP-CIDR,91.108.0.0/16,📲 电报,no-resolve
   - IP-CIDR,109.239.140.0/24,📲 电报,no-resolve
   - IP-CIDR,149.154.160.0/20,📲 电报,no-resolve
