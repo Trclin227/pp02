@@ -128,7 +128,6 @@ dns:
 proxies: ~
 proxy-groups: ~
 rules:
-  - DOMAIN-KEYWORD,embymv.me,🎬 EMBY
   - DOMAIN-KEYWORD,emby,🎬 EMBY
   - DOMAIN-KEYWORD,odysseyplus,🎬 EMBY
   - DOMAIN-KEYWORD,emby.wtf,🎬 EMBY
