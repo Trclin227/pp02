@@ -3,14 +3,20 @@ log-level: info
 external-controller: ':9090'
 dns:
   enable: true
+  prefer-h3: true
+  ipv6: true
   listen: 0.0.0.0:1053
   enhanced-mode: fake-ip
   nameserver:
     - 119.29.29.29
     - 223.5.5.5
+    - https://dns.google/dns-query#proxy
+  proxy-server-nameserver:
+    - https://dns.alidns.com/dns-query
   fallback:
     - https://120112.alidns.com/dns-query
     - tls://9.9.9.9.12
+  fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     - dns.msftncsi.com
     - www.msftncsi.com
@@ -26,6 +32,7 @@ dns:
     - '*.msftncsi.com'
     - '*.msftconnecttest.com'
     - '*.lan'
+    - time.windows.com
     - '*.localdomain'
     - '*.example'
     - '*.invalid'
