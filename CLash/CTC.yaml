@@ -336,6 +336,13 @@ rules:
   - DOMAIN-KEYWORD,steambroadcast,Steam
   - DOMAIN-KEYWORD,steamstore,Steam
   - DOMAIN-KEYWORD,steamuserimages,Steam
+  - DOMAIN-SUFFIX,dlandroid.rcv.sandai.net,Proxies
+  - DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net,Proxies
+  - DOMAIN-SUFFIX,hub5pn.wap.sandai.net,Proxies
+  - DOMAIN-SUFFIX,hub5pnc.sandai.net,Proxies
+  - DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net,Proxies
+  - DOMAIN-SUFFIX,hubciddata.sandai.net,Proxies
+  - DOMAIN-KEYWORD,mypikpak,Proxies
   - DOMAIN-KEYWORD,admarvel,🛑 全球拦截
   - DOMAIN-KEYWORD,admaster,🛑 全球拦截
   - DOMAIN-KEYWORD,adsage,🛑 全球拦截
