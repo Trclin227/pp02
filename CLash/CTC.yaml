@@ -285,6 +285,9 @@ rules:
   - IP-CIDR6,2001:b28:f23f::/48, Telegram,no-resolve
   - DOMAIN,bbs.hostevaluate.com,Proxies
   - DOMAIN-KEYWORD,kuaichedao,Proxies
+  - DOMAIN,cdn.usefathom.com,🇺🇸 US
+  - DOMAIN-SUFFIX,anthropic.com,🇺🇸 US
+  - DOMAIN-SUFFIX,claude.ai,🇺🇸 US
   - DOMAIN-KEYWORD,openai, ChatGPT
   - DOMAIN-KEYWORD,chatgpt, ChatGPT
   - DOMAIN-SUFFIX,chatpdf.com, ChatGPT
