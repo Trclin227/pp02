@@ -1,4 +1,4 @@
-Name:Emby
+#Name:Emby
 payload:
   - DOMAIN-KEYWORD,embymv.me
   - DOMAIN-KEYWORD,emby
