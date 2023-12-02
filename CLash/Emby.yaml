@@ -1,5 +1,6 @@
 #Name:Emby
  payload:
+    - DOMAIN-KEYWORD,pilipili
     - DOMAIN-KEYWORD,embymv.me
     - DOMAIN-KEYWORD,emby
     - DOMAIN-KEYWORD,odysseyplus
