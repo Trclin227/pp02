@@ -1,5 +1,7 @@
 #Name:Emby
  payload:
+  - DOMAIN-SUFFIX,c.emby.pro
+  - DOMAIN-SUFFIX,bgka.me
   - DOMAIN-SUFFIX,emby.aca.best
   - DOMAIN-SUFFIX,porn.aca.best
   - DOMAIN-SUFFIX,cc.ccemby.tk
